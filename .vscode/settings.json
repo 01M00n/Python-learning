@@ -1,0 +1,8 @@
+{
+    "python.defaultInterpreterPath": "c:\\Anaconda\\python.exe",
+    "python.analysis.extraPaths": [
+        "c:\\Anaconda\\Lib\\site-packages"
+    ],
+    "python.analysis.typeCheckingMode": "off",
+    "jupyter.kernels.filter": []
+}
